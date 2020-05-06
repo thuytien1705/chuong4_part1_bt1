@@ -1,0 +1,13 @@
+C:\Users\hoang\source\repos\chuong4_part1\obj\Debug\chuong4_part1.csprojAssemblyReference.cache
+C:\Users\hoang\source\repos\chuong4_part1\obj\Debug\chuong4_part1.FrmChaoMung.resources
+C:\Users\hoang\source\repos\chuong4_part1\obj\Debug\chuong4_part1.Properties.Resources.resources
+C:\Users\hoang\source\repos\chuong4_part1\obj\Debug\chuong4_part1.csproj.GenerateResource.cache
+C:\Users\hoang\source\repos\chuong4_part1\obj\Debug\chuong4_part1.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\chuong4_part1\bin\Debug\chuong4_part1.exe.config
+C:\Users\hoang\source\repos\chuong4_part1\bin\Debug\chuong4_part1.exe
+C:\Users\hoang\source\repos\chuong4_part1\bin\Debug\chuong4_part1.pdb
+C:\Users\hoang\source\repos\chuong4_part1\obj\Debug\chuong4_part1.exe
+C:\Users\hoang\source\repos\chuong4_part1\obj\Debug\chuong4_part1.pdb
+C:\Users\hoang\source\repos\chuong4_part1\obj\Debug\chuong4_part1.FrmTinhTong.resources
+C:\Users\hoang\source\repos\chuong4_part1\obj\Debug\chuong4_part1.FrmMain.resources
+C:\Users\hoang\source\repos\chuong4_part1\obj\Debug\chuong4_part1.TinhTong_bt1.resources
